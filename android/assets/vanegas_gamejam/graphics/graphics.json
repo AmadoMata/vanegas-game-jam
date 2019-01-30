@@ -1,0 +1,43 @@
+{
+  Color: {
+    light: {
+      r: 0.78,
+      g: 0.94,
+      b: 0.84,
+      a: 1
+    },
+    dark: {
+      r: 0.26,
+      g: 0.32,
+      b: 0.23,
+      a: 1
+    }
+  },
+
+  LabelStyle: {
+    default: {
+      font: default-font,
+      fontColor: dark
+    }
+  },
+
+  TextButtonStyle: {
+    default: {
+      down: tab_on,
+      up: tab,
+      checked: tab_on,
+      font: default-font,
+      fontColor: dark,
+      checkedFontColor: light,
+      downFontColor: light
+    },
+    phone: {
+      down: btn_disabled,
+      up: btn,
+      disabled: btn_disabled,
+      font: default-font,
+      fontColor: dark
+      downFontColor: light
+    }
+  }
+}
