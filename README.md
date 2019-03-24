@@ -34,6 +34,9 @@ Every certain time, the enemies show their level of health and the damage they i
 💾 Save progress
 The game automatically saves your progress. If you lose in combat, you will appear again in the same area of the map where you fought for the last time.
 
+Google Play
+https://play.google.com/store/apps/details?id=com.ineriam.games.vanegas.gamejam
+
 This game is the participation of INERIAM Ingeniería Multimedia in the Nokia 3310 JAM.
 For more information: https://itch.io/jam/3310jam
 
